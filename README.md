@@ -39,10 +39,9 @@ How have total orders or products sold changed month by month?
 <a href="https://github.com/deepakn766/Indian-Ecommerce-PowerBI/blob/main/Screenshot%202025-10-19%20192832.png">Customer & Operational Image</a
                                                                                                                                               >
 ## Screenshots
-![Executive Dashboard](<img width="1166" height="654" alt="Screenshot 2025-10-19 192818" src="https://github.com/user-attachments/assets/8b00a179-c506-45df-8e82-386fdb712b27" />
-)
-![Customer & Operations Dashboard](<img width="1166" height="658" alt="Screenshot 2025-10-19 192832" src="https://github.com/user-attachments/assets/4ccf3f09-ccc9-4bdb-b033-759eefda6e89" />
-)
+<img width="1166" height="654" alt="Screenshot 2025-10-19 192818" src="https://github.com/user-attachments/assets/e3467131-eef8-4f2e-a618-d6535e6aed87" />
+
+
 
 
 

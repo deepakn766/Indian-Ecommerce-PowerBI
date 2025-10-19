@@ -17,8 +17,7 @@ This is an **end-to-end Power BI project** using an Indian e-commerce dataset (~
 - Data visualization and dashboard design
 
 ## Files
-- [`indian_ecommerce_25000.csv`](https://your-dataset-link.com) – Dataset
-- `Indian_Ecommerce_Project.pbix` – Power BI file
+<a href="https://github.com/deepakn766/Indian-Ecommerce-PowerBI/blob/main/indian_ecommerce_25000.csv">Dataset<a/>
 
 ## Screenshots
 ![Executive Dashboard](screenshots/executive_dashboard.png)
